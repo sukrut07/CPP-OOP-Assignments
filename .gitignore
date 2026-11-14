@@ -1,0 +1,7 @@
+# Compiled binaries
+assignment12/assignment12
+*.o
+*.out
+
+# macOS system files
+.DS_Store
