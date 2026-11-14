@@ -1,5 +1,12 @@
 # Compiled binaries
-assignment12/assignment12
+assignment*/*
+!assignment*/*.cpp
+!assignment*/*.h
+!assignment*/*.hpp
+!assignment*/*.png
+!assignment*/*.jpg
+!assignment*/*.jpeg
+!assignment*/*.md
 *.o
 *.out
 
